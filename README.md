@@ -179,8 +179,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-![ouput](out1.jpg)
-![ouput](out2.jpg)
+![ouput](https://github.com/AbishekAnand15/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/out1.jpg)
+![ouput](https://github.com/AbishekAnand15/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/out2.jpg)
  
  
  
